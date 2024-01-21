@@ -54,3 +54,5 @@ if __name__ == '__main__':
     main_window.show()
 
     sys.exit(app.exec_())
+
+# 2024/1/14 22:47
